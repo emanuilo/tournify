@@ -1,10 +1,10 @@
-# Tournify - Automatic Tournament Tree Generator
+# Tournify - Automatic Tournament Bracket Generator
 
 A full-stack web application for creating and managing tournament brackets, perfect for beer pong tournaments or any other competitive games.
 
 ## Features
 
-- 🏆 **Automatic Bracket Generation**: Just add player names and the app creates a perfect tournament tree
+- 🏆 **Automatic Bracket Generation**: Just add player names and the app creates a perfect tournament bracket
 - 🎯 **Real-time Updates**: Track match progress and automatically advance winners
 - 💾 **Persistent Storage**: PostgreSQL database ensures no progress is lost on refresh
 - 🐳 **Docker Compose**: Easy deployment with containerized services
@@ -111,7 +111,7 @@ tournify/
 - Automatic bracket generation based on tournament size
 - Real-time match updates
 - Progressive winner advancement
-- Visual tournament tree display
+- Visual tournament bracket display
 
 ### Data Persistence
 - All tournament data stored in PostgreSQL
